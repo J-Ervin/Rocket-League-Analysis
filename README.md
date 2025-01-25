@@ -1,5 +1,5 @@
 # Rocket-League-Analysis
-A project that uses technical analysis to analyze key components between teams that play Rocket League at the professional level.
+A project that uses technical analysis to analyze key components between teams that play Rocket League at the professional level. The data was taken from ballchasing.com and formatted into a csv file for analysis.
 The project uses many analysis techniques:
 Win-Loss Stat Comparison to gather knowledge on what stats are higher for winning teams, indicating that some stats should be focused on more to increase win rate.
 T-Test Analysis which shows which stats are significant when it comes to winning and losing.
